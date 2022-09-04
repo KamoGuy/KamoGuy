@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Kamlchai Hang
-- 👀 I’m interested in a lot of things such as Game Dev, AI, and APP development, and web development.
-- 🌱 I’m currently working on improving my Java, Python, C++ language. I am currently learning REACT. I am planning to learn SQL NEXT.
 - 📫 How to reach me: Email: hanglaokamolchai@gmail.com
 
 <!---
